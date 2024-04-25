@@ -1,5 +1,8 @@
 # PLUS_softwaredev_2024_even_superuniquer
-git practice repo yadi yadi
+Repo for git practice in the Software Development Course at PLUS.
+> [!NOTE]
+> This README is also used for trying out Markdown formatting!
+
 
 ## Update from Rohit
 
